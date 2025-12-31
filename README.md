@@ -8,8 +8,8 @@
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)
 ![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-yellow)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)
-![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
-<!-- ![Status](https://img.shields.io/badge/Project-Completed-brightgreen) -->
+<!-- ![Status](https://img.shields.io/badge/Project-In%20Progress-yellow) -->
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 > TF-IDF notebook is to be added
 
@@ -65,13 +65,23 @@ path = kagglehub.dataset_download("vishakhdapat/imdb-movie-reviews")
 
 ## Results
 
+
 ### Using BoW
 
 | Model               | Accuracy |
 |---------------------|----------|
 | Naive Bayes         | 67.23%   |
+| Linear SVC          | 69.34%   |
 | Logistic Regression | 69.43%   |
-| Support Vector Machine (SVM) | 69.34% |
+
+
+### Using TF-IDF
+
+| Model               | Accuracy |
+|---------------------|----------|
+| Naive Bayes         | 67.56%   |
+| Linear SVC          | 69.56%   |
+| Logistic Regression | 70.00%   |
 
 ---
 
