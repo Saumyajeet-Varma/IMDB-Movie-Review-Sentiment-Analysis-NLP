@@ -8,10 +8,8 @@
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)
 ![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-yellow)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)
-<!-- ![Status](https://img.shields.io/badge/Project-In%20Progress-yellow) -->
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
-> TF-IDF notebook is to be added
+<!-- ![Status](https://img.shields.io/badge/Project-In%20Progress-yellow) -->
 
 A Natural Language Processing (NLP) project that performs sentiment analysis on IMDB movie reviews using the Bag of Words (BoW) approach and Term Frequency-Inverse Document Frequency (TF-IDF).
 
